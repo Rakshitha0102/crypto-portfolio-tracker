@@ -243,6 +243,31 @@ The collection includes:
 5. Register an admin user and test `/coins/admin/all`
 
 ---
+## 📸 Screenshots
+
+### 📝 Registration Page
+![Registration](./screenshots/01_registration.png)
+
+### 🔐 Login Page
+![Login](./screenshots/02_login.png)
+
+### 📊 User Dashboard
+![User Dashboard](./screenshots/03_user_dashboard.png)
+
+### ➕ Add Coin
+![Add Coin](./screenshots/04_add_coin.png)
+
+### 🔔 Price Alert
+![Price Alert](./screenshots/05_price_alert.png)
+
+### 👑 Admin Dashboard
+![Admin Dashboard](./screenshots/06_admin_dashboard.png)
+
+### 🗄️ MongoDB Users Collection
+![MongoDB Users](./screenshots/07_Mongodb_users.png)
+
+### 🗄️ MongoDB Coins Collection
+![MongoDB Coins](./screenshots/08_Mongodb_coins.png)
 
 ## 📈 Scalability Notes
 
