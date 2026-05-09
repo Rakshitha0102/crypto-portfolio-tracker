@@ -70,7 +70,7 @@ Create a `.env` file in the `backend/` directory:
 
 ```env
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/cryptonest
+MONGO_URI=your_mongodb_atlas_connection_string
 JWT_SECRET=your_super_secret_key_here
 JWT_EXPIRE=7d
 ```
