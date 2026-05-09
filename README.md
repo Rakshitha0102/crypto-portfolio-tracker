@@ -53,8 +53,8 @@ cryptonest/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/cryptonest.git
-cd cryptonest
+git clone https://github.com/Rakshitha0102/crypto-portfolio-tracker.git
+cd crypto-portfolio-tracker
 ```
 
 ### 2. Backend Setup
