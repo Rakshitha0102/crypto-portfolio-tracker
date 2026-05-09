@@ -42,10 +42,12 @@ cryptonest/
 
 ## ⚙️ Prerequisites
 
-- [Node.js](https://nodejs.org/) v18+
-- [MongoDB](https://www.mongodb.com/) (local or Atlas)
-- npm or yarn
+Make sure you have the following installed:
 
+- [Node.js](https://nodejs.org/) v18+ (we used v22.14.0)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+- [MongoDB Atlas](https://www.mongodb.com/atlas) (cloud database — no local MongoDB needed)
+- [Postman](https://www.postman.com/) (for API testing)
 ---
 
 ## 🚀 Getting Started
