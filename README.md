@@ -277,6 +277,4 @@ See [SCALABILITY.md](./SCALABILITY.md) for a detailed note on how this project i
 
 ---
 
-## 📄 License
 
-MIT – feel free to use and modify.
